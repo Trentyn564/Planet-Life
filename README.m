@@ -1,4 +1,4 @@
-# Planet-Life-Cheat
+(# Planet-Life-Cheat)
 Planet Life hasn't been hacked until now.
 
 # Notes:
